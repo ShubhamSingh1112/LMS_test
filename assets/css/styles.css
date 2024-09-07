@@ -623,6 +623,7 @@ footer {
 
 .footer-bottom p {
     color: var(--bg-dark);
+    padding-inline: 15px;
 }
 
 .footer-bottom a {
