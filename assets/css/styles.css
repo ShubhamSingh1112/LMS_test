@@ -634,6 +634,7 @@ footer {
 .footer-home {
     color: var(--bg-dark);
     text-align: center;
+    padding-inline: 15px;
 }
 
 .footer-home a {
